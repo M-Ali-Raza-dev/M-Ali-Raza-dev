@@ -1,62 +1,163 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ali</h1> <h3 align="center">🎨 Front-End Designer | 💡 Creative Problem Solver | 💻 Tech Enthusiast</h3>
+<!-- =========================
+  Muhammad Ali — App-style GitHub Profile
+  Modern • Clean • "Product UI" vibe
+========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Turning+Ideas+Into+Visual+Experiences;Passionate+Front-End+Designer;Crafting+Engaging+User+Interfaces" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:111827,100:0b1220&section=header&text=Muhammad%20Ali&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=760&lines=Front-End+Designer+%E2%80%A2+Backend+Intern+%E2%80%A2+Software+Engineering+Student;UI%2FUX+%7C+React+%7C+Node+%7C+Python+%7C+MySQL;Building+clean+interfaces+and+reliable+systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:muhammadali140802@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-22c55e?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/muhammad-ali-975b94255"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/leadgenali"><img src="https://img.shields.io/badge/X-Follow-111827?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧊 Dashboard
 
-🎯 I’m a **proactive and goal-oriented front-end designer** passionate about crafting user-friendly and visually appealing digital experiences.  
+<table>
+<tr>
+<td width="50%">
 
-📍 Based in **Karachi, Pakistan**  
-🎓 Studying **Software Engineering** (Expected Graduation: **May 2026**)  
-⚙️ Known for **problem-solving, adaptability, and multitasking**
+### 👋 About
+- 📍 Karachi, Pakistan  
+- 🎓 Software Engineering (Grad: May 2026)  
+- 🎯 Focus: UI/UX + Web Systems  
+- 🛡️ Interest: Cybersecurity  
+
+</td>
+<td width="50%">
+
+### ⚡ Quick Actions
+- ✅ Open to internships & projects  
+- 🧩 Front-end + backend delivery  
+- 🚀 Fast shipping, clean code  
+- 🤝 Collaboration friendly  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Skills & Tools
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,git,github&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,mongodb,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Design-UI%2FUX%20%26%20Brand-9333ea?style=flat" />
+  <img src="https://img.shields.io/badge/Backend-Auth%20%7C%20APIs%20%7C%20Payments-0ea5e9?style=flat" />
+  <img src="https://img.shields.io/badge/Mindset-Ship%20%F0%9F%9A%80%20Improve%20%F0%9F%94%A5-22c55e?style=flat" />
 </p>
 
 ---
 
-### 🧠 Languages
+## 🧩 Featured Projects (App Cards)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td width="50%">
+
+### 🗣️ Hawa — AI Virtual Assistant
+**Python • CustomTkinter • Voice**
+- English/Urdu voice recognition  
+- Schedules, app launch, email  
+- Secure voice lock + modern GUI  
+
+</td>
+<td width="50%">
+
+### 🌦️ Weatherly — Weather Web App
+**HTML • CSS • JavaScript**
+- Real-time city weather  
+- Dynamic icons + responsive UI  
+- Smooth animation feel  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Animated Auth UI
+**HTML • CSS • JS**
+- Animated transitions + ripple effects  
+- Form validation + social buttons  
+- Clean modern interaction UI  
+
+</td>
+<td width="50%">
+
+### 🎓 Educational Course Platform
+**WordPress • LearnDash**
+- Course pages + quizzes  
+- User registration + payments  
+- Built for premium content  
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧰 Frameworks & Tools
+## 💼 Experience (Clean & Strong)
 
-![Tkinter](https://img.shields.io/badge/Tkinter-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+**Bulbul Classes — Backend Developer Intern (Remote)**  
+- Built complete backend for signup/signin  
+- Secure auth (sessions/tokens)  
+- Student onboarding system  
+- Payment gateway integration  
+- Performance + scalability improvements  
 
----
-
-### 💡 Soft Skills
-
-> ⏱ **Time Management**  
-> ♻️ **Adaptability**  
-> 🧠 **Creativity**  
-> 📚 **Fast Learner**  
-> 🎯 **Goal-Oriented**
+**IoTfiy Solutions — Brand Designer Intern (Karachi)**  
+- Logos + marketing assets  
+- Cohesive visual strategy for products  
+- Brand consistency & visibility  
 
 ---
 
-### 🔢 Language Usage (GitHub Stats)
+## 📊 Language Usage (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=M-Ali-Raza-dev&layout=compact&theme=radical&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-Ali-Raza-dev&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Ali-Raza-dev&theme=github_dark" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Ali-Raza-dev&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Ali-Raza-dev&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-Ali-Raza-dev&theme=github_dark&utcOffset=5" height="170" />
+</p>
+
+---
+
+## 🏅 Certifications
+- Google (Coursera): AI Essentials  
+- Foundations of Cybersecurity  
+- Data Analytics  
+- Data Science  
+
+---
+
+## 🤝 Let’s Build
+If you need a **clean UI**, **responsive website**, or **secure backend**, reach out.
+
+<p align="center">
+  <a href="mailto:muhammadali140802@gmail.com"><img src="https://img.shields.io/badge/Email-Message%20Me-22c55e?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/muhammad-ali-975b94255"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0b1220,100:111827&section=footer&text=&fontSize=0" />
 </p>
