@@ -18,11 +18,11 @@
 
 <div align="center">
 
-**📍 Location:** Karachi, Pakistan  
-**🎓 Education:** Software Engineering (Graduating May 2026)  
-**💡 Interests:** UI/UX Design • Web Development • Cybersecurity  
-**🚀 Currently:** Building responsive UIs and scalable backends  
-**✅ Available for:** Internships • Freelance Projects • Collaboration
+📍 **Location:** Karachi, Pakistan  
+🎓 **Education:** Software Engineering (Graduating May 2026)  
+💡 **Interests:** UI/UX Design • Web Development • Cybersecurity  
+🚀 **Currently:** Building responsive UIs and scalable backends  
+✅ **Available for:** Internships • Freelance Projects • Collaboration
 
 <br>
 
@@ -152,7 +152,7 @@ A complete e-learning solution with:
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Ali-Raza-dev&theme=radical" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ali-Raza-dev&theme=react-dark&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&radius=10" alt="Contribution Graph"/>
 
 </div>
 
