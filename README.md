@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Muhammad%20Ali&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-End%20Designer%20•%20Backend%20Developer%20•%20Software%20Engineer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Muhammad%20Ali&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-End%20Designer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Software%20Engineer&descAlignY=55&descSize=18" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+digital+experiences+that+just+work;UI%2FUX+%2B+Full+Stack+Development;Clean+Code+%7C+Great+Design+%7C+Secure+Systems" alt="Typing SVG" />
 
 <br>
 
-[![Email](https://img.shields.io/badge/📧_muhammadali140802@gmail.com-EA4335?style=for-the-badge&labelColor=1f2937)](mailto:muhammadali140802@gmail.com)
+[![Email](https://img.shields.io/badge/muhammadali140802@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2937)](mailto:muhammadali140802@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2937)](https://linkedin.com/in/muhammad-ali-975b94255)
 [![X](https://img.shields.io/badge/@leadgenali-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1f2937)](https://x.com/leadgenali)
 
@@ -65,7 +65,7 @@
 **Bulbul Classes** • Remote
 
 - Architected complete authentication system
-- Implemented secure session & token management
+- Implemented secure session and token management
 - Built student onboarding pipeline
 - Integrated payment gateway solutions
 - Optimized backend performance
@@ -146,11 +146,15 @@ A complete e-learning solution with:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=M-Ali-Raza-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ali-Raza-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&border_radius=10" alt="Top Languages" height="180"/>
 
-<br>
+<img src="https://github-readme-stats-ashy-delta-83.vercel.app/api?username=M-Ali-Raza-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&border_radius=10&cache_seconds=1800" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats-ashy-delta-83.vercel.app/api/top-langs/?username=M-Ali-Raza-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&border_radius=10&cache_seconds=1800" alt="Top Languages" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=M-Ali-Raza-dev&theme=radical&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&border_radius=10" alt="GitHub Streak" height="180"/>
+
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ali-Raza-dev&theme=react-dark&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&radius=10" alt="Contribution Graph"/>
 
@@ -198,14 +202,14 @@ A complete e-learning solution with:
 
 I'm always open to collaborating on interesting projects, discussing new ideas, or just having a conversation about tech.
 
-[![Email Me](https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&labelColor=1f2937)](mailto:muhammadali140802@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/💼_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2937)](https://linkedin.com/in/muhammad-ali-975b94255)
+[![Email Me](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2937)](mailto:muhammadali140802@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2937)](https://linkedin.com/in/muhammad-ali-975b94255)
 
 ---
 
 <img src="https://komarev.com/ghpvc/?username=M-Ali-Raza-dev&color=22c55e&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" />
 
